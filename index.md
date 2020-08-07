@@ -1,3 +1,3 @@
-## Welcome to Sea Battle : War Thunder game site
+## Welcome to Sea Battle : Submarine Warfare game site
 
 ### Under construction...
