@@ -4,9 +4,9 @@ appodeal.com, 35312, DIRECT
 #BidMachine
 bidmachine.io, 35312, DIRECT
 #AdMob
-google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
+google.com, pub-1303071742859131, DIRECT, f08c47fec0942fa0
 #Notsy
-google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
+google.com, pub-1303071742859131, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 23740, RESELLER, 0bfd66d529a55807
 uis.mobfox.com, 1729, DIRECT, 5529a3d1f59865be
 yahoo.com, 59663, RESELLER, e1a5b5b6e3255540
