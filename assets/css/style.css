@@ -56,6 +56,11 @@ hr {
 .screenshots-row img {
   max-width: 300px;
   flex: 1 1 auto;
+  transition: transform 0.2s ease;
+}
+
+.screenshots-row img:hover {
+  transform: scale(1.05);
 }
 
 /* centered row (optional nicer look) */
