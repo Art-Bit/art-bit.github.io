@@ -18,8 +18,10 @@ You are the brave and clever captain of the ship. Your goal is to smash all the 
 - An endless number of levels
 
 #### Screenshots
-![Screenshot 1](assets/images/seabattle1.png)
-![Screenshot 2](assets/images/seabattle2.png)
+<div class="screenshots">
+  <img src="assets/images/seabattle1.png">
+  <img src="assets/images/seabattle2.png">
+</div>
 
 ---
 
@@ -34,5 +36,7 @@ A space strategy game with tower defense elements, where you build and expand a 
 - 3 types of enemies
 
 #### Screenshots
-![Screenshot 1](assets/images/starfall1.png)
-![Screenshot 2](assets/images/starfall2.png)
+<div class="screenshots-row center">
+  <img src="assets/images/starfall1.png">
+  <img src="assets/images/starfall2.png">
+</div>
